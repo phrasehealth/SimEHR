@@ -12,7 +12,7 @@
     "contract": "node contract.mjs"
   },
   "dependencies": {
-    "next": "15.5.28",
+    "next": "16.4.5",
     "react": "19.1.10",
     "react-dom": "19.1.10"
   },
